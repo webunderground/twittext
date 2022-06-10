@@ -1,0 +1,3 @@
+gfx/user1.png
+gfx/user3.png
+gfx/logo.png
